@@ -70,7 +70,7 @@ body{
 /******** HEADER *************/
 .header{
     height: 97vh;
-    background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.514), rgba(0, 0, 0, 0.233)), url(./img/hero1-min.jpg);
+    background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.514), rgba(0, 0, 0, 0.233)), url(../resources/img/hero1-min.jpg);
     background-size: cover;
     background-position: top;
     position: relative;
@@ -272,7 +272,7 @@ body{
 .section-advice {
     height: 80vh;
 
-    background-image: linear-gradient( rgba(1, 116, 114, 0.548), rgba(1, 116, 114, 0.548)), url(/resources/img/hero2-min.jpg);
+    background-image: linear-gradient( rgba(1, 116, 114, 0.548), rgba(1, 116, 114, 0.548)), url(resources/img/hero2-min.jpg);
     
     background-size: cover;
     background-attachment: fixed;

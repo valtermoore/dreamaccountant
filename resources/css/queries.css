@@ -1,0 +1,319 @@
+
+
+@media only screen and (max-width: 950px) {
+
+    .heading-primary-main{
+        font-size: 4.5rem;
+    }
+    
+    .heading-primary-sub{
+        font-size: 1.9rem;
+    }
+    
+    .know-more-btn{
+        font-size: 1.5rem !important;
+    }
+    
+    .talk-us-btn{
+        font-size: 1.5rem !important;
+    }
+    
+    .carousel .img-box{
+        width: 12rem;
+        height: 12rem;
+    }
+
+    
+    .heading-advice-main{
+        font-size: 3.2rem;
+    }
+    
+    .heading-advice-sub {
+        font-size: 1.6rem;
+    }
+    
+    .know-us-btn{
+        font-size: 1.2rem !important;
+    }
+}
+
+@media only screen and (max-width: 620px){
+
+    .heading-primary-main{
+        font-size: 4.5rem;
+    }
+    
+    .heading-primary-sub{
+        font-size: 1.9rem;
+    }
+    
+    .know-more-btn{
+        font-size: 1.5rem !important;
+    }
+    
+    .talk-us-btn{
+        font-size: 1.5rem !important;
+    }
+    
+    .carousel .img-box{
+        width: 12rem;
+        height: 12rem;
+    }
+
+    
+    .heading-advice-main{
+        font-size: 3.2rem;
+    }
+    
+    .heading-advice-sub {
+        font-size: 1.6rem;
+    }
+    
+    .know-us-btn{
+        font-size: 1.2rem !important;
+    }
+}
+
+@media only screen and (max-width: 540px){
+    .heading-primary-main{
+        font-size: 4.2rem;
+    }
+    
+    .heading-primary-sub{
+        font-size: 1.8rem;
+    }
+    
+    .know-more-btn{
+        font-size: 1.4rem !important;
+    }
+    
+    .talk-us-btn{
+        font-size: 1.4rem !important;
+    }
+    
+    .carousel .img-box{
+        width: 12rem;
+        height: 12rem;
+    }
+
+    .heading-advice-main{
+        font-size: 3rem;
+    }
+    
+    .heading-advice-sub {
+        font-size: 1.6rem;
+    }
+    
+    .know-us-btn{
+        font-size: 1.2rem !important;
+    }
+}
+
+@media only screen and (max-width: 500px){
+
+    .heading-primary-main{
+        font-size: 4.2rem;
+    }
+    
+    .heading-primary-sub{
+        font-size: 1.8rem;
+    }
+    
+    .know-more-btn{
+        font-size: 1.4rem !important;
+    }
+    
+    .talk-us-btn{
+        font-size: 1.4rem !important;
+    }
+    
+    .carousel .img-box{
+        width: 12rem;
+        height: 12rem;
+    }
+
+
+    .heading-advice-main{
+        font-size: 3rem;
+    }
+    
+    .heading-advice-sub {
+        font-size: 1.6rem;
+    }
+    
+    .know-us-btn{
+        font-size: 1.2rem !important;
+    }
+
+}
+
+@media only screen and (max-width: 450px){
+
+    .heading-primary-main{
+        font-size: 4rem;
+    }
+    
+    .heading-primary-sub{
+        font-size: 1.7rem;
+    }
+    
+    .know-more-btn{
+        font-size: 1.3rem !important;
+    }
+    
+    .talk-us-btn{
+        font-size: 1.3rem !important;
+    }
+    
+    .carousel .img-box{
+        width: 12rem;
+        height: 12rem;
+    }
+
+    .heading-advice-main{
+        font-size: 2.9rem;
+    }
+    
+    .heading-advice-sub {
+        font-size: 1.5rem;
+    }
+    
+    .know-us-btn{
+        font-size: 1.2rem !important;
+    }
+}
+
+
+@media only screen and (max-width: 429px){
+    
+    .heading-primary-main{
+        font-size: 4rem;
+    }
+    
+    .heading-primary-sub{
+        font-size: 1.7rem;
+    }
+    
+    .know-more-btn{
+        font-size: 1.3rem !important;
+    }
+    
+    .talk-us-btn{
+        font-size: 1.3rem !important;
+    }
+    
+    .carousel .img-box{
+        width: 12rem;
+        height: 12rem;
+    }
+
+
+    .heading-advice-main{
+        font-size: 2.8rem;
+    }
+    
+    .heading-advice-sub {
+        font-size: 1.5rem;
+    }
+    
+    .know-us-btn{
+        font-size: 1.2rem !important;
+    }
+}
+
+
+@media only screen and (max-width: 400px){
+
+    .heading-primary-main{
+        font-size: 3.5rem;
+    }
+    
+    .heading-primary-sub{
+        font-size: 1.6rem;
+    }
+    
+    .know-more-btn{
+        font-size: 1.2rem !important;
+    }
+    
+    .talk-us-btn{
+        font-size: 1.2rem !important;
+    }
+    
+    .carousel .img-box{
+        width: 12rem;
+        height: 12rem;
+    }
+
+
+    .heading-advice-main{
+        font-size: 2.7rem;
+    }
+    
+    .heading-advice-sub {
+        font-size: 1.5rem;
+    }
+    
+    .know-us-btn{
+        font-size: 1.2rem !important;
+    }
+
+}
+
+@media only screen and (max-width: 367px){
+    
+ .heading-primary-main{
+    font-size: 3.5rem;
+ }
+
+ .heading-primary-sub{
+    font-size: 1.5rem;
+ }
+
+ .know-more-btn{
+    font-size: 1.2rem !important;
+ }
+
+ .talk-us-btn{
+    font-size: 1.2rem !important;
+ }
+
+ 
+.heading-services-info p{
+    font-size: 1.5rem;
+}
+
+
+.heading-advice-main{
+    font-size: 2.7rem;
+}
+
+.heading-advice-sub {
+    font-size: 1.5rem;
+}
+
+.know-us-btn{
+    font-size: 1.2rem !important;
+}
+
+.section-advice {
+    height: 85vh;
+
+}
+
+@media only screen and (max-width: 300px){
+
+
+    .heading-advice-main{
+        font-size: 2.5rem;
+    }
+    
+    .heading-advice-sub {
+        font-size: 1.5rem;
+    }
+    
+    .know-us-btn{
+        font-size: 1rem !important;
+    }
+
+}
